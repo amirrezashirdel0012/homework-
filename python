@@ -1,0 +1,38 @@
+print('Hello teacher!')
+
+## Variables
+# String
+firstname = 'amirreza'
+
+print(firstname)
+print(type(firstname))
+
+lastname = 'shirdel'
+
+print(lastname)
+print(type(lastname))
+
+# Integer
+
+age = 25
+print(age)
+print(type(age))
+
+# Float
+
+python = 16.75
+print(python)
+print(type(python))
+
+java = 12.50
+print(java)
+print(type(java))
+# Boolean
+
+passed = True
+print(passed)
+print(type(passed))
+
+## Working with Variables
+grade =(java + python)
+print(grade/2)
